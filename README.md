@@ -52,7 +52,8 @@ A aplicação:
 3. Abra **`src/Main.java`**.
 4. Execute pelo botão de **Play** no canto superior.
 
-> Recomendação: instale as extensões **Extension Pack for Java** e **Portuguese (Brazil) Language Pack** (opcional, apenas para PT-BR).
+>[!NOTE]
+> Instale as extensões **Extension Pack for Java** e **Portuguese (Brazil) Language Pack** (opcional, apenas para PT-BR).
 
 ---
 
@@ -71,8 +72,8 @@ A aplicação:
    ```bash
    java -cp bin Main
    ```
-
-> Dica: se você rodar novamente, a pasta `bin` provavelmente já existe, então o passo de compilação (passo 3) pode ser necessário apenas quando houver mudanças no código.
+>[!TIP]
+> Se você rodar novamente, a pasta `bin` provavelmente já existe, então o passo de compilação (passo 3) pode ser necessário apenas quando houver mudanças no código.
 
 ---
 
